@@ -27,7 +27,7 @@ from globals import *
 layout = dbc.Card([
     html.Img(src="/assets/logo-01.gif"),
     html.H1("Budget", className="custom-h1-style text-center",
-            style={'font-size': '60px', 'font-family': 'Century Gothic'}),
+            style={'font-size': '50px', 'font-family': 'Century Gothic'}),
     html.P("By Paloma Sette", className="custom-p-style text-center"),
                 html.Hr(),
 
